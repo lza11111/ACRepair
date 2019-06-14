@@ -1,0 +1,13 @@
+# cache
+__pycache__
+*.pyc
+
+# database
+*.sqlite3
+
+# private
+private_settings.py
+
+# local-config
+.vscode
+.DS_Store
